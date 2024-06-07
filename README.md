@@ -27,13 +27,13 @@ All code scripts along with EDA notebooks are in the repository. Modeling is the
 ## Docs
 
 Multiple files are produced by `modeling.ipynb` which contain the performance metrics of the models.
-`BeforeTuned_ModelAccuracy.png`
-`BestLogReg_CalibrationCurve.png`
-`BestLogReg_ConfusionMatrix.png`
-`BestLogReg_FeatureImportance.png`
-`BestLogReg_SHAP_test.png`
-`BestLogReg_SHAP_val.png`
-`BestModels_Results.csv`
-`BestRF_FeatureImportance.png`
-`TargetBySource.png`
-`TESTSET_BestLogReg_Results.csv`
+- `BeforeTuned_ModelAccuracy.png`
+- `BestLogReg_CalibrationCurve.png`
+- `BestLogReg_ConfusionMatrix.png`
+- `BestLogReg_FeatureImportance.png`
+- `BestLogReg_SHAP_test.png`
+- `BestLogReg_SHAP_val.png`
+- `BestModels_Results.csv`
+- `BestRF_FeatureImportance.png`
+- `TargetBySource.png`
+- `TESTSET_BestLogReg_Results.csv`
