@@ -1,0 +1,4 @@
+,Model,Best Params,AUC,Accuracy,Precision,Recall
+0,LogisticRegression,"{'C': 0.01, 'max_iter': 100, 'solver': 'newton-cg'}",0.641,64.11%,65.02%,62.59%
+0,RandomForest,"{'bootstrap': False, 'max_depth': 10, 'min_samples_leaf': 4, 'min_samples_split': 10, 'n_estimators': 10}",0.639,63.86%,64.65%,62.69%
+0,SVM,"{'C': 1, 'gamma': 0.001, 'kernel': 'rbf'}",0.642,64.17%,65.38%,61.68%
