@@ -1,4 +1,4 @@
-# Gamer and Anxiety Project
+# Gaming and Anxiety Project
 
 ## Team Members
 
